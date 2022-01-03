@@ -4,3 +4,5 @@ unti
 残尿
 
 sikko
+
+git status
