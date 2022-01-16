@@ -8,3 +8,5 @@ sikko
 git status
 
 geri
+
+git commit --amend
